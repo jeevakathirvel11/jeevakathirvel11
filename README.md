@@ -1,8 +1,4 @@
-- 👋 Hi, I’m Jeeva Kathirvel
-- 🌱 I’m a second year student studying at IISER Kolkata with Chemistry and Biology as premajors
-- 👀 I’m interested in Chess, Chemistry and stuffs...
-- 💞️ I’m still learning basic programming with python, C and HTML
-<!---
-jeevakathirvel11/jeevakathirvel11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a 2nd year student at IISER Kolkata. 
+I'm still learning basic web design, ML & AI as well as programming with Python, and C. I'm also an professional FIDE rated chess player.
+
+How about a game of [chess?](https://lichess.org/@/Jeeva_11)
